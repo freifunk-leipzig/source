@@ -470,9 +470,9 @@ static struct device_info boards[] = {
 		.last_sysupgrade_partition = "file-system"
 	},
 
-	/** Firmware layout for the TL-WA850RE v2 */
+	/** Firmware layout for the TL-WA854RE v2 */
 	{
-		.id     = "TLWA850REV2",
+		.id     = "TLWA854REV2",
 		.vendor = "",
 		.support_list =
 			"SupportList:\n"
